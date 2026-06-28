@@ -1,8 +1,8 @@
 # Eduard Masanovskiy
 
-Focused on internal tools, automation, backend utilities, and developer-facing systems.
+Software developer focused on internal tools, automation, and backend utilities.
 
-I build practical software for improving workflows, reducing manual operations, and supporting engineering productivity.
+I build practical tools that reduce manual work and improve development workflows.
 
 ## Focus
 
@@ -10,14 +10,14 @@ I build practical software for improving workflows, reducing manual operations, 
 - Internal tools and automation
 - Backend utilities and integrations
 - Dockerized development environments
-- Developer-facing desktop tools
+- Developer-facing desktop utilities
 
 ## Stack
 
 **Primary**  
 `C++` `Python` `Docker` `MySQL` `RabbitMQ`
 
-**Tools & Workflow**  
+**Tools**  
 `Git` `GitHub` `GitLab` `Visual Studio` `VS Code`
 
 **Supporting**  
