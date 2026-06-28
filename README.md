@@ -1,7 +1,7 @@
 # Hey There! 👋
 
-I'm **Eduard** - a **C++ Developer** interested in software development, internal tools, automation, GUI development, and game development.
-I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub**, and **GitLab**.
+Я **Eduard** — **C++ разработчик**, интересуюсь разработкой программного обеспечения, внутренними инструментами и автоматизацией.
+Я работаю с **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub** и **GitLab**.
 
 <p>
   <a href="https://skillicons.dev">
@@ -15,5 +15,4 @@ I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, 
   <img src="https://img.shields.io/badge/working%20with-Dear%20ImGui-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/scripting-PAWN-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/automation-AutoHotkey-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/game%20dev-SA--MP-green?style=flat-square" />
 </p>
