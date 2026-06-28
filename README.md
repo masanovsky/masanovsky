@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm **masanovskiy1** - a **C++ Developer** interested in software development, internal tools, automation, GUI development, and game development.
+I'm **Eduard** - a **C++ Developer** interested in software development, internal tools, automation, GUI development, and game development.
 I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub**, and **GitLab**.
 
 <p>
