@@ -1,10 +1,8 @@
 # Eduard Masanovskiy
 
-**C++ Software Developer** focused on internal tools, automation, and backend-adjacent utilities.
+**C++ Software Developer** focused on internal tools, automation, backend utilities, and developer-facing systems.
 
 I build practical software for improving workflows, reducing manual operations, and supporting engineering productivity.
-
----
 
 ## Focus
 
@@ -13,10 +11,8 @@ I build practical software for improving workflows, reducing manual operations, 
 - Backend utilities and integrations
 - Database-backed workflow systems
 - Dockerized development environments
-- Message queue based processing
+- RabbitMQ-based asynchronous workflows
 - Developer-facing desktop tools
-
----
 
 ## Stack
 
