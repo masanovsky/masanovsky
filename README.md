@@ -1,18 +1,30 @@
-# Hey There! 👋
+# Eduard Masanovskiy
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=C%2B%2B+Software+Developer;Internal+Tools+%26+Automation;Python+%7C+Lua+%7C+Docker+%7C+RabbitMQ" alt="Typing SVG" />
-</p>
+**C++ Software Developer** focused on internal tools, automation, and backend-adjacent utilities.
 
-I'm **Eduard** — a **C++ Software Developer** interested in software development, internal tools, and automation.
-I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub**, and **GitLab**.
+I build practical software for improving workflows, reducing manual operations, and supporting engineering productivity.
 
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=cpp,py,lua,docker,mysql,rabbitmq,git,github,gitlab,visualstudio,vscode,selenium&theme=dark&perline=12"
-      width="540"
-      alt="Skills"
-    />
-  </a>
-</p>
+---
+
+## Focus
+
+- C++ tooling and application development
+- Internal tools and automation
+- Backend utilities and integrations
+- Database-backed workflow systems
+- Dockerized development environments
+- Message queue based processing
+- Developer-facing desktop tools
+
+---
+
+## Stack
+
+**Primary**  
+`C++` `Python` `Docker` `MySQL` `RabbitMQ`
+
+**Tools & Workflow**  
+`Git` `GitHub` `GitLab` `Visual Studio` `VS Code`
+
+**Additional**  
+`Dear ImGui` `Lua` `PAWN` `Selenium`
