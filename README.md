@@ -1,18 +1,18 @@
 # Hey There! 👋
 
-Я **Eduard** — **C++ разработчик**, интересуюсь разработкой программного обеспечения, внутренними инструментами и автоматизацией.
-Я работаю с **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub** и **GitLab**.
+I'm **Eduard** — a **Backend Developer** interested in software development, internal tools, and automation.
+I work with **C++**, **Python**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub**, and **GitLab**.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,lua,mysql,rabbitmq,docker,git,github,gitlab,visualstudio,vscode,selenium&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,docker,mysql,rabbitmq,git,github,gitlab&theme=dark&perline=8" />
   </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/coding-C%2B%2B-blue?style=flat-square&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/working%20with-Dear%20ImGui-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/scripting-PAWN-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/automation-AutoHotkey-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/backend-development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/coding-C%2B%2B-blueviolet?style=flat-square&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/working%20with-Python-yellow?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/tools-Docker-informational?style=flat-square&logo=docker" />
 </p>
