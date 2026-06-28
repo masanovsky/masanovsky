@@ -1,4 +1,4 @@
-# C++ Software Developer
+# Eduard Masanovskiy
 
 Focused on internal tools, automation, backend utilities, and developer-facing systems.
 
