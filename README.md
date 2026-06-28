@@ -22,5 +22,5 @@ I build practical software for improving workflows, reducing manual operations, 
 **Tools & Workflow**  
 `Git` `GitHub` `GitLab` `Visual Studio` `VS Code`
 
-**Additional**  
+**Supporting**  
 `Dear ImGui` `Lua` `PAWN` `Selenium`
