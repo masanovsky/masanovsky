@@ -1,6 +1,10 @@
 # Hey There! 👋
 
-I'm **Eduard** — a **C++ Software Developer** interested in software development, internal tools, automation, and application development.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=C%2B%2B+Software+Developer;Internal+Tools+%26+Automation;Python+%7C+Lua+%7C+Docker+%7C+RabbitMQ" alt="Typing SVG" />
+</p>
+
+I'm **Eduard** — a **C++ Software Developer** interested in software development, internal tools, automation, and application development.  
 I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, **MySQL**, **RabbitMQ**, **Git**, **GitHub**, and **GitLab**.
 
 <p>
@@ -10,7 +14,7 @@ I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=masanovskiy1&label=Profile%20views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/badge/software-development-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/coding-C%2B%2B-blueviolet?style=flat-square&logo=cplusplus" />
   <img src="https://img.shields.io/badge/working%20with-Python-yellow?style=flat-square&logo=python" />
@@ -18,5 +22,4 @@ I work with **C++**, **Python**, **Lua**, **PAWN**, **Dear ImGui**, **Docker**, 
   <img src="https://img.shields.io/badge/scripting-PAWN-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/GUI-Dear%20ImGui-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/automation-AutoHotkey-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/tools-Docker-informational?style=flat-square&logo=docker" />
 </p>
