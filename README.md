@@ -11,14 +11,15 @@ I build practical tools that reduce manual work and improve development workflow
 - Backend utilities and integrations
 - Dockerized development environments
 - Developer-facing desktop utilities
+- Reverse engineering and binary analysis
 
 ## Stack
 
 **Primary**  
-`C++` `Python` `Docker` `MySQL` `RabbitMQ`
+`C++` `Python` `Docker` `PostgreSQL` `RabbitMQ`
 
 **Tools**  
-`Git` `GitHub` `GitLab` `Visual Studio` `VS Code`
+`Git` `GitHub` `GitLab` `Visual Studio` `VS Code` `IDA Pro`
 
 **Supporting**  
-`Dear ImGui` `Selenium`
+`x86/x64 Assembly` `Qt` `Dear ImGui` `Selenium`
